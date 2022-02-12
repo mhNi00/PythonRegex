@@ -1,0 +1,6 @@
+1. goodemail@gmail.com user pass
+2. pass user anothergoodemail@mail.it
+3. pass not.a.good@email.com user
+4. user pass bad@email
+5. pass bad@email.23
+6. user reallygoodemail23@omail.com
