@@ -1,0 +1,1 @@
+#Write a program that will check if a number has a precision of 2
